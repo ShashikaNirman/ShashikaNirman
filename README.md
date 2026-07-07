@@ -54,4 +54,3 @@ $ make build && ./run
 
 > "Code is the neon blood of the machine city. Keep the signal strong." 
 
-`README.md` is now a futuristic dashboard for your GitHub profile — bright, dynamic, and ready for the next hack.
